@@ -15,7 +15,7 @@ We analyzed Messi's goals throughout his European club career using:
 
 - **Raw data**: [`raw_data.csv`](./raw_data.csv) (from Kaggle)
 - **Cleaned data**: [`cleaned_data.xlsx`](./cleaned_data.xlsx)
-- **Python preprocessing**: `preprocess.py`
+- **Python preprocessing**: `preprocess.ipynb`
 
 ## Preprocessing
 
