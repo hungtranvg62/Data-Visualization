@@ -15,11 +15,11 @@ We analyzed Messi's goals throughout his European club career using:
 
 - **Raw data**: [`raw_data.csv`](./raw_data.csv) (from Kaggle)
 - **Cleaned data**: [`cleaned_data.xlsx`](./cleaned_data.xlsx)
-- **Python preprocessing**: [Kaggle Notebook (Click "Edit My Copy" to run)](https://www.kaggle.com/code/hieupc/data-viz)
+- **Python preprocessing**: `preprocess.py`
 
 ## Preprocessing
 
-We used **Python (Pandas)** on Kaggle to clean, filter, and organize the raw dataset.
+We used **Python (Pandas)** to clean, filter, and organize the raw dataset.
 
 **Key steps:**
 - Removed irrelevant columns
